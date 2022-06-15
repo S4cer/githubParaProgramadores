@@ -1,2 +1,3 @@
 alert("Editado.");
-console.log("estoy aprendiendo Git");
+console.log("regreso para para seguir aprendiendo Git y terminar el curso.");
+console.log("Nos vemos pronto");
